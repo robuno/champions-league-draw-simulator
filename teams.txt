@@ -1,0 +1,39 @@
+Paris Saint-Germain,France
+Real Madrid,Spain
+Manchester City,England
+Bayern Munich,Germany
+Liverpool,England
+Inter,Italy
+Chelsea,England
+Borussia Dortmund,Germany
+Barcelona,Spain
+
+Arsenal,England
+Bayer Leverkusen,Germany
+Atletico Madrid,Spain
+Benfica,Portugal
+Atalanta,Italy
+Villarreal,Spain
+Juventus,Italy
+Eintracht Frankfurt,Germany
+Club Brugge,Belgium
+
+Tottenham Hotspur,England
+PSV Eindhoven,Netherlands
+Ajax,Netherlands
+Napoli,Italy
+Sporting CP,Portugal
+Olympiacos,Greece
+Slavia Prague,Czech Republic
+Bodø/Glimt,Norway
+Olympique Marseille,France
+
+Copenhagen,Denmark
+Monaco,France
+Galatasaray,Turkey
+Union Saint-Gilloise,Belgium
+Qarabag,Azerbaijan
+Athletic Bilbao,Spain
+Newcastle United,England
+Pafos,Cyprus
+Kairat Almaty,Kazakhstan
